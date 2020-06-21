@@ -12,8 +12,8 @@ import com.sun.media.sound.InvalidFormatException;
 
 public class TestUtil {
 	
-	public static long PAGE_LOAD_TIMEOUT = 20;
-	public static long IMPLICIT_WAIT = 10;
+	public static long PAGE_LOAD_TIMEOUT = 200;
+	public static long IMPLICIT_WAIT = 200;
 	
 	static Workbook book;
 	static Sheet sheet;

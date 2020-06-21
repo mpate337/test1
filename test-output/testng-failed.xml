@@ -3,12 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.cra.qa.testcases.ContactUsPageTest">
+      <class name="com.cra.qa.testcases.HomePageTest">
         <methods>
-          <include name="setup"/>
-          <include name="fillFormTest"/>
+          <include name="setUp"/>
+          <include name="verifySoftwareTestingLink"/>
         </methods>
-      </class> <!-- com.cra.qa.testcases.ContactUsPageTest -->
+      </class> <!-- com.cra.qa.testcases.HomePageTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
