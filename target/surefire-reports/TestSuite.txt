@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 20, Failures: 1, Errors: 0, Skipped: 1, Time elapsed: 450.432 s <<< FAILURE! - in TestSuite
+contactUsTitleTest(com.cra.qa.testcases.ContactUsPageTest)  Time elapsed: 1.1 s  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<[Contact Us |] Roicians> but was:<[Home -] Roicians>
+	at com.cra.qa.testcases.ContactUsPageTest.contactUsTitleTest(ContactUsPageTest.java:38)
+

@@ -1,0 +1,15 @@
+com\cra\qa\pages\ContactUsPage.class
+com\cra\qa\pages\ServicesPage.class
+com\cra\qa\pages\SoftwareTestingPage.class
+com\cra\qa\pages\WebDevelopmentPage.class
+com\cra\qa\pages\CareersPage.class
+com\cra\qa\pages\ConsultancyPage.class
+ExtentReportListener\ExtentReportListener.class
+com\cra\qa\pages\CoursesPage.class
+com\cra\qa\pages\EventsPage.class
+com\cra\qa\util\TestUtil.class
+com\cra\qa\pages\TrainingPage.class
+com\crm\qa\base\TestBase.class
+com\cra\qa\pages\HomePage.class
+com\cra\qa\pages\AboutUsPage.class
+com\cra\qa\pages\EnquireNowPage.class
